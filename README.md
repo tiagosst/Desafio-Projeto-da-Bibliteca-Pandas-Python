@@ -41,3 +41,16 @@ frase.replace("python", "frases")
 frase = frase.upper()
 frase
 'PYTHON PARA ANALISE DE DADOS'
+
+
+Curso-Pandas-Python-Dio
+**Curso Introdutório de Python para análise de dados com Python e Pandas da Digital Innovation One.
+
+Assuntos neste curso:
+Python Básico
+Estrutura de dados
+Introdução a Biblioteca Pandas *Trabalhando com arquivos em Excel
+Trabalhando com Datas
+Visualização de dados
+Análise Exploratória de dados
+
